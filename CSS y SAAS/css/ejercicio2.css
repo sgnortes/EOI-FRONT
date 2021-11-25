@@ -1,0 +1,32 @@
+section[name='seccion1'],
+.articulo2 {
+  color: red;
+}
+
+section + p {
+  color: green;
+}
+
+article[class*='articulo2'] {
+  color: blue;
+}
+
+main section {
+  color: red;
+}
+
+[class*='articulo'] {
+  color: hotpink;
+}
+
+[class$='2'] {
+  color: green;
+}
+
+[class^='art'] {
+  color: blue;
+}
+
+#sec1 {
+  color: cornflowerblue;
+}
