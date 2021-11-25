@@ -1,32 +1,40 @@
+/*A)
 section[name='seccion1'],
 .articulo2 {
   color: red;
-}
+}*/
 
-section + p {
+/*B)
+p + section {
   color: green;
-}
+}*/
 
+/*C)
 article[class*='articulo2'] {
   color: blue;
-}
+}*/
 
+/*D)
 main section {
   color: red;
-}
+}*/
 
+/*E)
 [class*='articulo'] {
   color: hotpink;
-}
+}*/
 
+/*F)
 [class$='2'] {
   color: green;
-}
+}*/
 
+/*G)
 [class^='art'] {
   color: blue;
-}
+}*/
 
+/*H)
 #sec1 {
   color: cornflowerblue;
-}
+}*/
