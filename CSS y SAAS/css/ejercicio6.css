@@ -1,0 +1,14 @@
+section {
+  height: 10em;
+  width: 10em;
+  background-color: cornflowerblue;
+  border: coral 3px;
+  border-radius: 2em;
+  border-color: crimson;
+}
+/*
+.hero {
+  background-image: url('https://www.eoi.es/sites/default/files/inline-images/logoeoiok_horiz_blanco.jpg');
+  background-repeat: repeat-x;
+  background-size: contain;
+}*/
