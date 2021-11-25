@@ -2,9 +2,10 @@ section {
   height: 10em;
   width: 10em;
   background-color: cornflowerblue;
-  border: coral 3px;
   border-radius: 2em;
   border-color: crimson;
+  border-width: 3px;
+  border-style: solid;
 }
 /*
 .hero {
