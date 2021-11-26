@@ -1,0 +1,23 @@
+h2 {
+  font-size: 3em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: crimson;
+  font-weight: 900;
+  text-shadow: rgb(0, 0, 0) 3px 3px 5px;
+}
+
+section {
+  height: 10em;
+  width: 10em;
+  background: -webkit-linear-gradient(left, #003f8e, #f1f9fa);
+  border-radius: 2em;
+  border-color: crimson;
+  border-width: 3px;
+  border-style: solid;
+}
+/*
+.hero {
+  background-image: url('https://www.eoi.es/sites/default/files/inline-images/logoeoiok_horiz_blanco.jpg');
+  background-repeat: repeat-x;
+  background-size: contain;
+}*/

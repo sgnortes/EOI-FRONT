@@ -1,0 +1,22 @@
+$altura: height;
+$ancho: width;
+$color: yellow;
+$borde: (1px solid blue);
+
+nav {
+  #{$altura}: 80%;
+  #{$ancho}: 23px;
+  &:hover {
+    color: $color;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li {
+    float: left;
+    a {
+      border: $borde;
+      font-weight: bold;
+    }
+  }
+}

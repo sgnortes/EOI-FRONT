@@ -1,0 +1,22 @@
+nav {
+  height: 80%;
+  width: 23px;
+}
+
+nav:hover {
+  color: yellow;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  border: 1px solid blue;
+  font-weight: bold;
+}
+/*# sourceMappingURL=ejercicio1.css.map */
